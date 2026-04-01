@@ -389,13 +389,4 @@ Yachay Tech University
 
 ---
 
-## ⭐ Si este proyecto te gustó...
-
-Puedes usarlo como referencia para:
-
-- métodos numéricos
-- EDOs
-- proyectos académicos con Python
-- reportes científicos en LaTeX
-- portafolio de GitHub
 
